@@ -1,0 +1,46 @@
+.sponsor-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sponsor-sponsor {
+  width: 100%;
+  height: 606px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sponsor-image5 {
+  top: 159px;
+  left: 1px;
+  width: 1439px;
+  height: 399px;
+  position: absolute;
+}
+.sponsor-section-title {
+  gap: 10px;
+  top: 48px;
+  left: 566px;
+  width: 319px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+}
+.sponsor-text {
+  color: rgba(9, 109, 217, 1);
+  height: auto;
+  font-size: 36px;
+  font-style: italic;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}

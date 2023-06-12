@@ -1,0 +1,118 @@
+.hero-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hero-hero {
+  width: 100%;
+  height: 620px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hero-kotakijo {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  position: absolute;
+}
+.hero-text {
+  top: 296px;
+  left: 182px;
+  color: rgba(122, 122, 122, 1);
+  width: 553px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hero-text2 {
+  top: 168px;
+  left: 182px;
+  color: rgba(40, 127, 222, 1);
+  width: 396px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hero-group1joinnow {
+  top: 418px;
+  left: 182px;
+  width: 136px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.hero-btnjoin {
+  gap: 4px;
+  top: 0px;
+  left: 0px;
+  width: 136px;
+  height: 34px;
+  display: flex;
+  padding: 4px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(9, 109, 217, 1);
+}
+.hero-text7 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hero-group16 {
+  top: 127px;
+  left: 804px;
+  width: 452px;
+  height: 378px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.hero-image7 {
+  top: 12px;
+  left: 0px;
+  width: 439px;
+  height: 366px;
+  position: absolute;
+  border-radius: 24px;
+}
+.hero-image6 {
+  top: 0px;
+  left: 13px;
+  width: 439px;
+  height: 366px;
+  position: absolute;
+  border-radius: 24px;
+}
